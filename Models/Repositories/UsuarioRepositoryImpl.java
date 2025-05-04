@@ -7,7 +7,7 @@ import java.util.List;
 
 public class UsuarioRepositoryImpl implements UsuarioRepository {
 
-    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/act1_devweb?serverTimezone=UTC";
+    private static final String JDBC_URL = "jdbc:mysql://localhost:3306/act2_devweb?serverTimezone=UTC";
     private static final String JDBC_USER = "ramiro_espana";
     private static final String JDBC_PASSWORD = "AbcdeUdeC";
 
